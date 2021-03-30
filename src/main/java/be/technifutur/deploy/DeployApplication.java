@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DeployApplication {
 
 	public static void main(String[] args) {
-		System.out.println("test git 2");
+		System.out.println("test git 3");
 		SpringApplication.run(DeployApplication.class, args);
 	}
 
