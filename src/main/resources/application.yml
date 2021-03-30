@@ -7,7 +7,7 @@ spring:
     url: jdbc:postgres://maaxqyyhqolyye:f8acbcc3ae382b611a7a74a7acb0ddcafd2e46d261d6278f993f5b47422b73cb@ec2-34-225-103-117.compute-1.amazonaws.com:5432/d33slei1h5s26s
     username: maaxqyyhqolyye
     password: f8acbcc3ae382b611a7a74a7acb0ddcafd2e46d261d6278f993f5b47422b73cb
-   # driver-class-name: org.postgresql.Driver
+    driver-class-name: org.postgresql.Driver
 
   jpa:
     hibernate:
